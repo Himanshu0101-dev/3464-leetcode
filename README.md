@@ -1,6 +1,4 @@
-# 3464-leetcode
-
-lass Solution {
+class Solution {
 
     public int maxDistance(int side, int[][] points, int k) {
         List<Long> arr = new ArrayList<>();
