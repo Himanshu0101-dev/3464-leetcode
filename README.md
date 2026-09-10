@@ -1,6 +1,6 @@
-class Solution {
+#3464 leetcode /maximize-the-distance-between-points-on-a-square
 
-    public int maxDistance(int side, int[][] points, int k) {
+   class solution { public int maxDistance(int side, int[][] points, int k) {
         List<Long> arr = new ArrayList<>();
 
         for (int[] p : points) {
